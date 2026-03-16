@@ -29,7 +29,13 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+
+  verification: {
+  yandex: 'ef69e6154bf6e44b',
+  },
 }
+
+
 
 export const viewport: Viewport = {
   width: 'device-width',
